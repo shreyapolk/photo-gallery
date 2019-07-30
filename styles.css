@@ -1,0 +1,63 @@
+*{
+  margin: 2px;
+  padding: 2px:
+  box-sizing:border-box;
+}
+
+h1{
+  font-family: 'Bungee Outline', cursive;
+  font-size: 500%;
+  text-align: center;
+}
+article{
+  display: flex;
+}
+
+.fbla-trip{
+  margin-left: 10%;
+  margin-right:10%;
+  margin-bottom: 10%
+}
+img{
+  object-fit: cover;
+}
+.tea{
+  width:25%;
+  object-fit: cover;
+}
+
+.sun{
+  width: 50%;
+  object-fit: cover;
+
+}
+.sixflags{
+  height: 25%;
+  width: 25%;
+}
+
+.group-formal{
+  height:25%;
+  width: 25%;
+  object-fit: cover;
+}
+.fountain{
+  width: 25%;
+  object-fit: cover;
+}
+.texas{
+  width: 50%;
+  object-fit: cover;
+}
+.gformal {
+  width: 25%;
+  object-fit: cover;
+}
+.group-selfie{
+  height: 25%;
+  width: 50%;
+}
+.solo-w-mansi{
+  height: 25%;
+  width: 25%;
+}
